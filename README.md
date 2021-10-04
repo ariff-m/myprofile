@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arifupn
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning pythin
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web programming
 - 📫 How to reach me on instagram @ariffmhdd
 
