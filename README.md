@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arifupn
+- 👋 Hi, I’m @Arif
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web programming
